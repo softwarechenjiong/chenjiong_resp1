@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test2
+=======
+test1
+>>>>>>> parent of aded295... first commit
+test 3
